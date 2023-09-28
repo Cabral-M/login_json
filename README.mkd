@@ -1,0 +1,1 @@
+Para que o código funcione, deve-se utilizar algum servidor como, por exemplo, a extensão **live server** disponibilizada no Visual Studio Code.
